@@ -1,0 +1,81 @@
+{
+  "trip": [
+    {
+      "id": 1,
+      "destination_name": "Alpine Trails",
+      "date": "2026-02-12",
+      "time": "09:00 AM",
+      "location": "Swiss Alps",
+      "state": "Graubünden",
+      "district": "Davos",
+      "description": "A breathtaking hiking route through snow-capped peaks and alpine meadows.",
+      "image_url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "destination_name": "Serengeti Safari",
+      "date": "2026-02-15",
+      "time": "06:00 AM",
+      "location": "Serengeti National Park",
+      "state": "Mara",
+      "district": "Serengeti",
+      "description": "Witness lions, elephants, and giraffes in their natural habitat during a guided safari.",
+      "image_url": "https://images.unsplash.com/photo-1549366021-9f761d450615?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "destination_name": "Grand Canyon Trek",
+      "date": "2026-02-20",
+      "time": "10:00 AM",
+      "location": "Grand Canyon",
+      "state": "Arizona",
+      "district": "Coconino",
+      "description": "Explore the vast canyon landscapes with guided treks and scenic viewpoints.",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "destination_name": "Munnar Tea Gardens",
+      "date": "2026-03-05",
+      "time": "08:30 AM",
+      "location": "Munnar",
+      "state": "Kerala",
+      "district": "Idukki",
+      "description": "Rolling hills covered with lush tea plantations, offering serene views and fresh brews.",
+      "image_url": "https://images.unsplash.com/photo-1589308078055-918dcf3f7f3c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "destination_name": "Fort Kochi Heritage Walk",
+      "date": "2026-03-08",
+      "time": "04:00 PM",
+      "location": "Fort Kochi",
+      "state": "Kerala",
+      "district": "Ernakulam",
+      "description": "A cultural walk through colonial-era streets, Chinese fishing nets, and historic churches.",
+      "image_url": "https://images.unsplash.com/photo-1600077106745-2f8b6d6f8f3a?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 0,
+      "destination_name": "kulimanali",
+      "date": "2026-02-14",
+      "time": "10:10",
+      "location": "manali",
+      "state": "himachalpradhesh",
+      "district": "ladak",
+      "description": "diuhbvhjbfvhjfv",
+      "image_url": "https://discoverkullumanali.in/wp-content/uploads/2015/07/Hidimba-Devi-Temple-Manali-800x530.jpg"
+    },
+    {
+      "id": "35aa",
+      "destination_name": "city place",
+      "date": "2026-02-27",
+      "time": "11:01",
+      "location": " Udaipur",
+      "state": "rajasthan",
+      "district": "Udaipur district",
+      "description": "Bustling streets hum with the rhythm of scooters and footsteps, while small shops showcase local crafts.\nTemples, markets, and green parks punctuate the urban landscape, blending tradition with modernity.\nCafes spill lively chatter onto sunlit sidewalks, where aromas of spices and coffee mingle.\nAt night, lights twinkle like stars, reflecting the city’s energy and the warmth of its people.",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/002/773/440/large_2x/city-palace-in-jaipur-india-photo.jpg"
+    }
+  ]
+}
